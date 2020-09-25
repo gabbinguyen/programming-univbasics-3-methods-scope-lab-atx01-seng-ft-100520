@@ -1,4 +1,4 @@
-def mario 
+def mario
   puts phrase = "It's-a me, Mario!"
 end
 
@@ -10,7 +10,7 @@ def link
   puts message = "It's Dangerous To Go Alone! Take This."
 end
 
-def all_phrases 
+def all_phrases
   mario
   toadstool
   link
